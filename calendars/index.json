@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/refs/heads/main/shared/schemas/calendar-v1.0.0.json",
+  "name": "Teragona Calendar Pack",
+  "description": "Calendar collection for the Teragona fantasy settings",
+  "version": "1.0.0",
+  "calendars": [
+    {
+      "id": "teragona",
+      "name": "Teragonian Calendar",
+      "description": "The calendar used in Teragona.",
+      "file": "teragona.json",
+      "preview": "Sample format from Teragona",
+      "tags": [
+        "fantasy"
+      ],
+      "author": "Siyah Apala and Aether89"
+    }
+  ]
+}
