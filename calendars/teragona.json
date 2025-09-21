@@ -18,80 +18,80 @@
 
   "leapYear": {
     "rule": "gregorian",
-    "month": "Nínui",
+    "month": "Febnínui",
     "extraDays": 1
   },
 
   "months": [
     {
-      "name": "Narwain",
-      "abbreviation": "Nar",
+      "name": "Janwain",
+      "abbreviation": "Wain",
       "days": 31,
       "description": "The coldest month of winter in the northern hemisphere"
     },
     {
-      "name": "Nínui",
-      "abbreviation": "Nín",
+      "name": "Febnínui",
+      "abbreviation": "Nui",
       "days": 28,
       "description": "The shortest month, known for love and renewal"
     },
     {
-      "name": "Gwaeron",
-      "abbreviation": "Gwa",
+      "name": "Mareron",
+      "abbreviation": "Eron",
       "days": 31,
       "description": "Spring begins, named after Mars, god of war"
     },
     {
-      "name": "Gwirith",
-      "abbreviation": "Gwi",
+      "name": "Apririth",
+      "abbreviation": "Rith",
       "days": 30,
       "description": "Month of opening buds and fresh growth"
     },
     {
-      "name": "Lothron",
-      "abbreviation": "Lot",
+      "name": "Maythron",
+      "abbreviation": "Thron",
       "days": 31,
       "description": "Month of flowers, named after Maia, goddess of growth"
     },
     {
-      "name": "Nórui",
-      "abbreviation": "Nór",
+      "name": "Junorui",
+      "abbreviation": "Orui",
       "days": 30,
       "description": "Beginning of summer, named after Juno, goddess of marriage"
     },
     {
-      "name": "Cerveth",
-      "abbreviation": "Cer",
+      "name": "Julveth",
+      "abbreviation": "Veth",
       "days": 31,
       "description": "Named after Julius Caesar, peak of summer"
     },
     {
-      "name": "Urui",
+      "name": "Augurui",
       "abbreviation": "Urui",
       "days": 31,
       "description": "Named after Augustus Caesar, late summer heat"
     },
     {
-      "name": "Ivanneth",
-      "abbreviation": "Iva",
+      "name": "Sepanneth",
+      "abbreviation": "Anneth",
       "days": 30,
       "description": "The seventh month of the old Roman calendar"
     },
     {
-      "name": "Narbeleth",
-      "abbreviation": "Nbl",
+      "name": "Octbeleth",
+      "abbreviation": "Beleth",
       "days": 31,
       "description": "The eighth month of the old Roman calendar, autumn arrives"
     },
     {
-      "name": "Hithui",
-      "abbreviation": "Hit",
+      "name": "Novithui",
+      "abbreviation": "Ithui",
       "days": 30,
       "description": "The ninth month of the old Roman calendar, late autumn"
     },
     {
-      "name": "Girithron",
-      "abbreviation": "Gir",
+      "name": "Decithron",
+      "abbreviation": "Ithron",
       "days": 31,
       "description": "The tenth month of the old Roman calendar, winter solstice"
     }
@@ -99,18 +99,18 @@
 
   "weekdays": [
     {
-      "name": "Sol",
+      "name": "Sunsol",
       "abbreviation": "So",
       "description": "Day of rest and worship in many cultures"
     },
     {
-      "name": "Mani",
-      "abbreviation": "Ma",
+      "name": "Modni",
+      "abbreviation": "Mod",
       "description": "Beginning of the work week"
     },
     {
-      "name": "Tyr",
-      "abbreviation": "Ty",
+      "name": "Tueyr",
+      "abbreviation": "Tyr",
       "description": "Named after Tyr, Norse god of war"
     },
     {
@@ -120,7 +120,7 @@
     },
     {
       "name": "Thunor",
-      "abbreviation": "Th",
+      "abbreviation": "Thu",
       "description": "Named after Thor, Norse god of thunder"
     },
     {
@@ -129,8 +129,8 @@
       "description": "Named after Frigg, Norse goddess of love"
     },
     {
-      "name": "Zadel",
-      "abbreviation": "Za",
+      "name": "Satdel",
+      "abbreviation": "Sat",
       "description": "Named after Saturn, Roman god of agriculture"
     }
   ],
